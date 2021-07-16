@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there👋🏾
 
-<!--
-**brayomugo15/brayomugo15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏾‍💻 Currently working on Android(java).
+- ✌🏾 Looking forward opportunities and collaboration related with other android app development.
+- 📫 I'm available to answer your android related questions on any platform.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+  <table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=brayomugo15&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayomugo15&hide=html&layout=compact&theme=dark" /></td>      
+  </tr>   
+</table>
+</center>
