@@ -1,4 +1,4 @@
-## Hi there👋🏾
+## Hi there, I am Brian Mugo 👋🏾
 
 - 👨🏾‍💻 Currently working on Android(java).
 - ✌🏾 Looking forward opportunities and collaboration related with other android app development.
