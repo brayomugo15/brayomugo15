@@ -6,13 +6,13 @@
 
    <p float="left">
    <a href="https://twitter.com/BrianMugo12" title="Redirect to Twitter">
-      <img src="https://user-images.githubusercontent.com/39495725/129163243-1254c2ac-418b-407e-a60d-def83831c17f.png" height="30" width="120" alt="Twitter" />
+      <img src="https://user-images.githubusercontent.com/39495725/129163243-1254c2ac-418b-407e-a60d-def83831c17f.png" height="30" width="90" alt="Twitter" />
    </a>
    <a href="https://www.linkedin.com/in/brian-mugo-a47155164/" title="Redirect to Linkedin">
-      <img src="https://user-images.githubusercontent.com/39495725/129163179-8944c6bf-28ec-42b3-a56e-8c17be5e59a3.png" height="30" width="120" alt="Linkedin" />
+      <img src="https://user-images.githubusercontent.com/39495725/129163179-8944c6bf-28ec-42b3-a56e-8c17be5e59a3.png" height="30" width="90" alt="Linkedin" />
    </a>
    <a href="https://www.figma.com/files/user/890678063322824360" title="Redirect to Figma">
-      <img src="https://user-images.githubusercontent.com/39495725/129163558-a896e494-b1d6-48b4-9fd6-12fadd63a41e.png" height="30" width="120" alt="Figma" />
+      <img src="https://user-images.githubusercontent.com/39495725/129163558-a896e494-b1d6-48b4-9fd6-12fadd63a41e.png" height="30" width="90" alt="Figma" />
    </a>
    </p>
 
