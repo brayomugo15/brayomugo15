@@ -4,20 +4,17 @@
 - ✌🏾 Looking forward opportunities and collaboration related with other android app development.
 - 📫 I'm available to answer your android related questions on any platform.
 
-   <table>
-        <tr>
-            <td>
-                <a href="https://twitter.com/BrianMugo12" title="Redirect to Twitter">
-                    <img src="https://user-images.githubusercontent.com/39495725/129161081-4c9425f6-8ea7-4306-94b0-4e24a086403b.png" width="35" alt="Twitter" />
-                </a>
-            </td>
-            <td>
-                <a href="https://www.linkedin.com/in/brian-mugo-a47155164/" title="Redirect to Linkedin">
-                    <img src="https://user-images.githubusercontent.com/39495725/129161182-746cba75-1819-4dc0-af79-526b8cfa4daf.jpg" width="35" alt="Linkedin" />
-                </a>
-            </td>
-        </tr>
-    </table>
+   <p float="left">
+   <a href="https://twitter.com/BrianMugo12" title="Redirect to Twitter">
+      <img src="https://user-images.githubusercontent.com/39495725/129163243-1254c2ac-418b-407e-a60d-def83831c17f.png" height="30" width="120" alt="Twitter" />
+   </a>
+   <a href="https://www.linkedin.com/in/brian-mugo-a47155164/" title="Redirect to Linkedin">
+      <img src="https://user-images.githubusercontent.com/39495725/129163179-8944c6bf-28ec-42b3-a56e-8c17be5e59a3.png" height="30" width="120" alt="Linkedin" />
+   </a>
+   <a href="https://www.figma.com/files/user/890678063322824360" title="Redirect to Figma">
+      <img src="https://user-images.githubusercontent.com/39495725/129163558-a896e494-b1d6-48b4-9fd6-12fadd63a41e.png" height="30" width="120" alt="Figma" />
+   </a>
+   </p>
 
 <center>
   <table>
