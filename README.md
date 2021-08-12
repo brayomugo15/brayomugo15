@@ -4,6 +4,10 @@
 - ✌🏾 Looking forward opportunities and collaboration related with other android app development.
 - 📫 I'm available to answer your android related questions on any platform.
 
+<a href="https://twitter.com/BrianMugo12" title="Redirect to Twitter">
+    <img src="https://user-images.githubusercontent.com/39495725/129158215-2dbcc68a-ace7-4bca-b14a-db2402dc8ea5.png" width="120" alt="Twitter" />
+  </a>
+
 
 <center>
   <table>
