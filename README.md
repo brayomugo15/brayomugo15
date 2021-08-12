@@ -8,12 +8,12 @@
         <tr>
             <td>
                 <a href="https://twitter.com/BrianMugo12" title="Redirect to Twitter">
-                    <img src="https://user-images.githubusercontent.com/39495725/129159950-58c7aaa5-fc83-4456-9fdc-5cbfc1bc3302.png" width="35" alt="Twitter" />
+                    <img src="https://user-images.githubusercontent.com/39495725/129161081-4c9425f6-8ea7-4306-94b0-4e24a086403b.png" width="35" alt="Twitter" />
                 </a>
             </td>
             <td>
                 <a href="https://www.linkedin.com/in/brian-mugo-a47155164/" title="Redirect to Linkedin">
-                    <img src="https://user-images.githubusercontent.com/39495725/129160263-d615ae1d-df5f-47db-9d53-6a57f8af8034.png" width="35" alt="Linkedin" />
+                    <img src="https://user-images.githubusercontent.com/39495725/129161182-746cba75-1819-4dc0-af79-526b8cfa4daf.jpg" width="35" alt="Linkedin" />
                 </a>
             </td>
         </tr>
