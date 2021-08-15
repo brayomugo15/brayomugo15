@@ -1,6 +1,6 @@
 ## Hi there, I am Brian Mugo 👋🏾
 
-- 👨🏾‍💻 UI/UX esigner and currently working on Android(java).
+- 👨🏾‍💻 UI/UX designer and currently working on Android(java).
 - ✌🏾 Looking forward opportunities and collaboration related with other android app development teams.
 - 📫 I'm available to answer your android related questions on any platform.
 
