@@ -20,4 +20,9 @@
 </table>
 </center>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/victorkabata/count.svg" />
+</p>
+
 **Aspire to be great**
