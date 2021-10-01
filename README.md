@@ -22,7 +22,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/victorkabata/count.svg" />
+  <img src="https://profile-counter.glitch.me/brayomugo15/count.svg" />
 </p>
 
 **Aspire to be great**
