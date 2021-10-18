@@ -1,7 +1,8 @@
 # Hi there, I am Brian Mugo 👋🏾
 
 
-- UI/UX designer and currently working on Android(java) | Firebase | Single Activity App Achitecture
+- UI/UX designer 
+- Currently working on Android(java) | Firebase | Single Activity App Achitecture
 - Looking forward opportunities and collaboration related with other android app development teams.
 - I'm available to answer your android related questions on any platform.
 
