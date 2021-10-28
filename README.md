@@ -21,4 +21,4 @@
 </table>
 </center>
 
-**Aspire to be great**
+**Aspire to be great, Be positive**
