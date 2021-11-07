@@ -1,4 +1,4 @@
-# Hi there, I am Brian Mugo 👋🏾
+# Hi there, My name is Brian Mugo 👋🏾
 
 
 - UI/UX designer 
