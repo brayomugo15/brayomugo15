@@ -2,7 +2,8 @@
 
 
 - UI/UX designer 
-- Currently working on Android(java) | Firebase | Single Activity App Achitecture | Reactjs
+- Currently working on Android(java) | Firebase | Single Activity App Achitecture
+- Learning Reactjs
 - Looking forward opportunities and collaboration related with other android app development teams.
 - I'm available to answer your android related questions on any platform.
 
