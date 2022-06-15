@@ -9,10 +9,18 @@
 - I'm available to answer your android related questions on any platform.
 
 ## 🔗 About me
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&logoColor=%23ffffff&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FBrianMugo12)
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&logoColor=%23ffffff&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F)
 ![Twitter URL](https://img.shields.io/twitter/url?label=Behance&logo=Behance&style=for-the-badge&url=https%3A%2F%2Fwww.behance.net%2Fbrianmugo)
 ![Twitter URL](https://img.shields.io/twitter/url?label=Dribbble&logo=Dribbble&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fdribbble.com%2Fbrayomugo)
 ![LinkedIn URL](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbrian-mugo-a47155164%2F)
+
+<a href="https://twitter.com/BrianMugo12">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/brian-mugo-a47155164">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />    
+</a>&nbsp;&nbsp;
+
 
 <center>
   <table>
