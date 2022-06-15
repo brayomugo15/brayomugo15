@@ -14,7 +14,7 @@
 ![Twitter URL](https://img.shields.io/twitter/url?label=Dribbble&logo=Dribbble&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fdribbble.com%2Fbrayomugo)
 ![LinkedIn URL](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbrian-mugo-a47155164%2F)
 
-<a href="https://twitter.com/BrianMugo12">
+<a href="https://twitter.com/BrianMugo12" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/brian-mugo-a47155164">
