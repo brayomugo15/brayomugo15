@@ -23,6 +23,12 @@
     <img src="https://img.shields.io/badge/Dribbble-C1346B?style=for-the-badge&logo=Dribbble&logoColor=white" />    
 </a>&nbsp;&nbsp;
 
+## 🔥 Languages
+
+<img src="https://img.shields.io/badge/Java-C1346B?style=for-the-badge&logo=Java&logoColor=white" />    
+<img src="https://img.shields.io/badge/Reactjs-C1346B?style=for-the-badge&logo=Reactjs&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Android-C1346B?style=for-the-badge&logo=Android&logoColor=white" /> 
+
 
 <center>
   <table>
