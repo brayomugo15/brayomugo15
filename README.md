@@ -17,10 +17,13 @@
 <a href="https://twitter.com/BrianMugo12" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/brian-mugo-a47155164">
+<a href="https://www.linkedin.com/in/brian-mugo-a47155164" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />    
 </a>&nbsp;&nbsp;
-<a href="https://dribbble.com/brayomugo">
+<a href="https://www.behance.net/brianmugo" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=Behance&logoColor=white" />    
+</a>&nbsp;&nbsp;
+<a href="https://dribbble.com/brayomugo" target="_blank">
     <img src="https://img.shields.io/badge/Dribbble-C1346B?style=for-the-badge&logo=Dribbble&logoColor=white" />    
 </a>&nbsp;&nbsp;
 
