@@ -10,6 +10,7 @@
 
 ## 🔗 About me
 ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&logoColor=%23ffffff&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FBrianMugo12)
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&logoColor=%23ffffff&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FBrianMugo12)
 ![LinkedIn URL](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbrian-mugo-a47155164%2F)
 ![Twitter URL](https://img.shields.io/twitter/url?label=Figma&logo=figma&logoColor=%23fff&style=for-the-badge&url=https%3A%2F%2Fwww.figma.com%2Ffiles%2Fuser%2F890678063322824360)
 
