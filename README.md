@@ -1,4 +1,4 @@
-# Hi there, My name is Brian Mugo 👋🏾
+<h1 align="center">Hi there, My name is Brian Mugo 👋🏾</h1>
 
 
 - UI/UX designer 
