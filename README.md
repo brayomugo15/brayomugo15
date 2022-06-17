@@ -25,10 +25,12 @@
 
 ## 🔥 Languages
 
-<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=Java&logoColor=white" />    
-<img src="https://img.shields.io/badge/Reactjs-000?style=for-the-badge&logo=React&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Android-000?style=for-the-badge&logo=Android&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin&logoColor=white" /> 
+<p>
+    <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=Java&logoColor=white" />    
+    <img src="https://img.shields.io/badge/Reactjs-000?style=for-the-badge&logo=React&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Android-000?style=for-the-badge&logo=Android&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin&logoColor=white" /> 
+ </p>
 
 
 <center>
