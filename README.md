@@ -2,7 +2,7 @@
 
 <h3 align="center">UI/UX Designer | Software Developer</h3>
 
-- UI/UX Designer - designing great user experiences
+- UI/UX Designer - designing great user experiences in applications
 - Currently working on Android(java) | Firebase | Single Activity App Achitecture
 - Learning Reactjs
 - Looking forward opportunities and collaboration related with other android app development teams.
