@@ -1,6 +1,6 @@
 <h1>Hi there, My name is Brian Mugo 👋🏾</h1>
 
-<h3 align="center">UI/UX Designer | Software Developer</h3>
+<h3 align="center">UX Designer | Software Developer</h3>
 
 - UI/UX Designer - designing great user experiences in applications
 - Currently working on Android(java) | Firebase | Single Activity App Achitecture
