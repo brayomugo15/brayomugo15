@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Dribbble-C1346B?style=for-the-badge&logo=Dribbble&logoColor=white" />    
 </a>&nbsp;&nbsp;
 
-## 🔥 Languages
+## 🔥 Languages + Platforms
 
 <p>
     <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=Java&logoColor=white" />    
